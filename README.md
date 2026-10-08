@@ -99,8 +99,8 @@ Full-Stack Development 🚀
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anshuman-07270&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshuman-07270&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -110,8 +110,10 @@ Full-Stack Development 🚀
 I'm always open to learning, collaborating on projects, and connecting with fellow developers and students.
 
 📧 **Email:** YOUR_EMAIL  
-💼 **LinkedIn:** YOUR_LINKEDIN  
-🐙 **GitHub:** [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+💼 **LinkedIn:** www.linkedin.com/in/anshuman-bajpai
+
+  
+🐙 **GitHub:** [@YOUR_USERNAME](https://github.com/anshuman-07270)
 
 ---
 
