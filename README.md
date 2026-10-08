@@ -113,7 +113,7 @@ I'm always open to learning, collaborating on projects, and connecting with fell
 💼 **LinkedIn:** www.linkedin.com/in/anshuman-bajpai
 
   
-🐙 **GitHub:** [@YOUR_USERNAME](https://github.com/anshuman-07270)
+🐙 **GitHub:** (https://github.com/anshuman-07270)
 
 ---
 
